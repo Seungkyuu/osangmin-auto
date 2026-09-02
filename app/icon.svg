@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 사이트 로고(LogoMark)와 같은 구성: 앰버 색면 배지 + "오" + 계기판 호.
+       16px까지 줄어들므로 호는 가늘게, 글자는 굵게 잡는다. -->
+  <rect width="64" height="64" rx="17" fill="#ff8a3d"/>
+  <path d="M13 39a19 19 0 0 1 38 0" stroke="#201203" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <text x="32" y="45" text-anchor="middle" font-family="-apple-system, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif" font-size="31" font-weight="800" fill="#201203">오</text>
+</svg>
